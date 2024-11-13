@@ -99,6 +99,22 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+**DEVELOPERS**
+
+<table>
+  <tr>
+    <td>•𝙇𝙤𝙧𝙙 𝐉𝚰𝚴𝚮𝐘𝐔𝐊•</td>
+    <td>𝐔𝐍𝐊𝐍𝐎𝐖𝐍-𝐌𝐃</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/KangJinhuyk"><img src="https://files.catbox.moe/jynitk.jpg" width="150"</td>
+    <td><a href="https://github.com/Gungun243"><img src="https://files.catbox.moe/dohubs.jpg" width="150"  </td>
+  </tr>
+</table>
+
+   
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## GitHub Deployment
 
 ```yaml
@@ -145,23 +161,3 @@ jobs:
     - name: Save state (Optional)
       run: |
         ./save_state.sh
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-**DEVELOPERS**
-
-<table>
-  <tr>
-    <td>•𝙇𝙤𝙧𝙙 𝐉𝚰𝚴𝚮𝐘𝐔𝐊•</td>
-    <td>𝐔𝐍𝐊𝐍𝐎𝐖𝐍-𝐌𝐃</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/KangJinhuyk"><img src="https://files.catbox.moe/jynitk.jpg" width="150"</td>
-    <td><a href="https://github.com/Gungun243"><img src="https://files.catbox.moe/dohubs.jpg" width="150"</td>
-  </tr>
-</table>
-
-   
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
