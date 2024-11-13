@@ -8,8 +8,7 @@
 
 
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝐔𝐍𝐊𝐍𝐎𝐖𝐍+𝐌𝐃+⭕+𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐊𝐀𝐍𝐆 𝐉𝐈𝐍𝐇𝐘𝐔𝐊)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝐄𝐍𝐙𝐎+𝐌𝐃+⭕+𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐄𝐍𝐙𝐎)](https://git.io/typing-svg)  
 
 <p align="centre"><img src="https://files.catbox.moe/jynitk.jpg" width="500" height="500" />
 
