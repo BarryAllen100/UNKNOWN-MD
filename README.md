@@ -107,8 +107,8 @@
     <td>𝐔𝐍𝐊𝐍𝐎𝐖𝐍-𝐌𝐃</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/KangJinhuyk"><img src="https://files.catbox.moe/jynitk.jpg" width="180"</td>
-    <td><a href="https://github.com/Gungun243"><img src="https://files.catbox.moe/dohubs.jpg" width="180"</td>
+    <td><a href="https://github.com/KangJinhuyk"><img src="https://files.catbox.moe/jynitk.jpg" width="150"</td>
+    <td><a href="https://github.com/Gungun243"><img src="https://files.catbox.moe/dohubs.jpg" width="150"</td>
   </tr>
 </table>
 
